@@ -6,7 +6,7 @@ openai.api_key = "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"
 #print (openai.api_key)
 
 messages = [
-    {"role": "system", "content": "You are a very horny and funny assistant"},
+    {"role": "system", "content": "Act like yoda from the series Star Wars"},
 ]
 
 while True:
