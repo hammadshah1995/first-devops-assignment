@@ -1,12 +1,12 @@
 import os
 import openai
 #openai.organization = "org-vgBTgf6DIcsh5nGvNjuh1spC"
-openai.api_key = "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"
+openai.api_key = "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"
 
 #print (openai.api_key)
 
 messages = [
-    {"role": "system", "content": "You are an assistent English Poet who replies in poetry"},
+    {"role": "system", "content": "You are a very horny and funny assistant"},
 ]
 
 while True:
