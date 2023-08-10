@@ -16,10 +16,7 @@ I developed a basic chat application using the OpenAI API, utilizing Python and 
 
 ## Step 4: Build Docker Image
 
-1. I employed the `docker build` command to create an image Create a GitHub Repository and push to it
-
-1. I created a github repository hammadshah1995/first-devops-assignment from the online github account
-2. I pushed the folder and dockerfile to the github repo and made sure it was publically available
+1. I deployed the `docker build` command to create an image from the docker file
 2.  Docker build -t firstdevopsassignment:latest .
 3.  I then used `docker images` command to check the image being present in the list of images
 4.  Then I created the container using docker run command
@@ -43,3 +40,4 @@ I developed a basic chat application using the OpenAI API, utilizing Python and 
 
 1. I created a github repository hammadshah1995/first-devops-assignment from the online github account
 2. I pushed the folder and dockerfile to the github repo and made sure it was publically available
+   
