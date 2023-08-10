@@ -35,9 +35,13 @@ I developed a basic chat application using the OpenAI API, utilizing Python and 
 4. docker push hammadshah5/openaiapp:v1.0
         I useed the docker push command to push this image to DockerHub online
 
+5. Link to the image available online
+        https://hub.docker.com/r/hammadshah5/openaiapp
+
 
 ## Step 6: Create a GitHub Repository and push to it
 
 1. I created a github repository hammadshah1995/first-devops-assignment from the online github account
 2. I pushed the folder and dockerfile to the github repo and made sure it was publically available
-   
+3. Link to the github repository   
+https://github.com/hammadshah1995/first-devops-assignment
