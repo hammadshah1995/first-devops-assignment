@@ -1,5 +1,5 @@
 # Dockerized Chat App with OpenAI
-# Done by Syed Hammad Shah
+# Done by Syed Hammad Shah (dicecamp)
 
 ## Step 1: Application Identification
 
