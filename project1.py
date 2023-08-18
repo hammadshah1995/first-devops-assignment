@@ -1,7 +1,7 @@
 import os
 import openai
 #openai.organization = "org-vgBTgf6DIcsh5nGvNjuh1spC"
-openai.api_key = "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"
+openai.api_key = "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"
 
 #print (openai.api_key)
 
