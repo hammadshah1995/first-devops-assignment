@@ -1,4 +1,6 @@
-
+# Dockerized Chat App with OpenAI
+# Part 2
+# Done by Syed Hammad Shah (dicecamp)
 
 ```markdown
 # Docker Container Management
